@@ -1,0 +1,50 @@
+#wrapper{
+    
+    display: grid;
+    height: 100vh;
+   
+    grid-template-columns:35% 30% 35% ;
+    grid-template-rows: 30% 60% 10%;
+    grid-template-areas: 
+    'hd hd hd'
+    'mn mn mn'
+    'ft ft ft'
+    ;
+    
+
+}
+
+*, *::after, *::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-image:url(../img/traningsman2.jpg) ;
+    grid-area: hd;
+    text-align: center;
+    aspect-ratio: 9 / 2,5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.h1-wrapper {
+    padding: 1rem;
+    
+    background-color: #32CD32;
+    height: auto;
+    width: auto;
+}
+
+nav{
+grid-area: mn;
+
+}
