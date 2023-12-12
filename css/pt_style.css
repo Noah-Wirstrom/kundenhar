@@ -29,6 +29,7 @@ header{
 grid-area: hd;
 background-color: #32CD32;
 text-align: center;
+
 font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
 border-radius: 0px 0px 15px 15px;
 display: grid;
@@ -60,7 +61,8 @@ width: 7vw;
 h1{
 
 color: white;
-    
+  font-size: 35px;
+
 }
 
 
@@ -104,27 +106,29 @@ footer{
 }
 
 #d1{
-    background-image:url(../img/kvinna_pt_1_gron.jpg) ;
+    background-image:url(../img/martin-samuelsson_gron.jpg) ;
 }
 #d2{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/ivan_suleimani_gron.jpg) ;
 }
 #d3{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/andreas_lennartsson_gron.jpg) ;
 }
 #d4{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/martin-samuelsson_gron.jpg) ;
 }
 #d5{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/ivan_suleimani_gron.jpg) ;
+    
 }
 #d6{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/andreas_lennartsson_gron.jpg) ;
 }
 #d7{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/martin-samuelsson_gron.jpg) ;
 }
 #d8{
-    background-image:url(../img/kvinna_pt_1.jpg) ;
+    background-image:url(../img/ivan_suleimani_gron.jpg) ;
+    
 }
 
