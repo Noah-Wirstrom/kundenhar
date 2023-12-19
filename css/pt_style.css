@@ -95,6 +95,32 @@ main div p{
 color: aliceblue;
 text-decoration: #32CD32;
 
+}
+main section{
+    margin: 20px;
+    border-radius:25px ;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px;
+    border-style: solid;
+    border-color: #32CD32;
+    overflow-y:scroll;
+    overflow-x: hidden;
+
+}
+main section p {
+    margin: 4px;
+    background-color: greenyellow;
+    border-radius: 25px;
+   
+    border: 10px;
+    border-style: solid;
+    border-color: greenyellow;
 
 }
 
@@ -130,5 +156,26 @@ footer{
 #d8{
     background-image:url(../img/ivan_suleimani_gron.jpg) ;
     
+}
+
+#s1{
+    background-image: url(../img/mat_bakgrund.jpg);
+
+
+}
+#s2{
+    background-image: url(../img/mat_bakgrund.jpg);
+
+
+}
+#s3{
+    background-image: url(../img/mat_bakgrund.jpg);
+
+
+}
+#s4{
+    background-image: url(../img/mat_bakgrund.jpg);
+
+
 }
 
